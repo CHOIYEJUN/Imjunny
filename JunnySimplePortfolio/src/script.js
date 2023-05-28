@@ -102,6 +102,8 @@ TxtRotate.prototype.tick = function() {
 	}, delta);
 };
 
+
+
 // number count for stats
 jQuery.noConflict();
 (function($) {
