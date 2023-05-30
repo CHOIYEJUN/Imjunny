@@ -24,7 +24,7 @@ h2:after {
 	content: '';
 	width: 50px;
 	height: 3px;
-	background: #40E0D0;
+	background:#48b4ab;
 	display: block;
 	margin: 15px auto;
 	transition: all .2s ease-in-out;
@@ -143,7 +143,7 @@ h5 {
 
 .navbar-inverse .navbar-toggle:focus,
 .navbar-inverse .navbar-toggle:hover {
-	background-color: #40E0D0;
+	background-color:#48b4ab;
 }
 
 .navbar-inverse .navbar-toggle {
@@ -183,13 +183,13 @@ h5 {
 	-webkit-transform: translateX(-50%);
 	transform: translateX(-50%);
 	height: 3px;
-	background: #40E0D0;
+	background:#48b4ab;
 	-webkit-transition: .35s;
 	transition: .35s;
 }
 
 #ResponsiveNav li a:hover {
-	color: #40E0D0;
+	color:#48b4ab;
 }
 
 #ResponsiveNav ul li a:hover:after,
@@ -205,7 +205,7 @@ button.navbar-toggle.collapsed {
 
 .navbar-default .navbar-toggle:focus,
 .navbar-default .navbar-toggle:hover {
-	background-color: #40E0D0;
+	background-color:#48b4ab;
 	border: none;
 }
 
@@ -269,7 +269,7 @@ button.navbar-toggle.collapsed {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
 	text-align: left;
-	color: #40E0D0;
+	color:#48b4ab;
 }
 
 .intro .intro-body .intro-text {
@@ -280,7 +280,7 @@ button.navbar-toggle.collapsed {
 }
 
 span.city {
-	background-color: #40E0D0;
+	background-color:#48b4ab;
 	color: #fff;
 	border-radius: 4px;
 	width: 15px;
@@ -387,12 +387,12 @@ span.city {
 }
 
 .about-intro-text span {
-	color: #40E0D0;
+	color:#48b4ab;
 	font-weight: 700;
 }
 
 .about-intro-text .fa-beer {
-	color: #40E0D0;
+	color:#48b4ab;
 	font-size: 20px;
 }
 
@@ -503,7 +503,7 @@ div.button-social a {
 }
 
 div.button-social a:hover {
-	color: #40E0D0;
+	color: #48b4ab;
 }
 
 .button-group:focus,
@@ -557,7 +557,7 @@ div.button-social a:hover {
 .timeline-label h4 {
 	margin-top: 0;
 	font-size: 30px;
-	color: #40E0D0;
+	color:#48b4ab;
 	padding: 16px 0px;
 	font-weight: 700;
 }
@@ -580,7 +580,7 @@ div.button-social a:hover {
 }
 
 .text-timeline {
-	background: #40E0D0;
+	background:#48b4ab;
 	color: #fff;
 	font-size: 18px;
 	height: 40px;
@@ -594,7 +594,7 @@ div.button-social a:hover {
 	height: 40px;
 	line-height: 30px;
 	box-sizing: border-box;
-	border: 4px solid #40E0D0;
+	border: 4px solid#48b4ab;
 	border-left: none;
 	-webkit-transition: 600ms -webkit-transform ease-in-out;
 	transition: 600ms -webkit-transform ease-in-out;
@@ -604,7 +604,7 @@ div.button-social a:hover {
 	transform: rotateY(90deg);
 	-webkit-transform-origin: left;
 	transform-origin: left;
-	color: #40E0D0;
+	color:#48b4ab;
 	background: #fff;
 	text-align: center;
 }
@@ -642,7 +642,7 @@ div.button-social a:hover {
 	margin-top: 0;
 	margin-bottom: 0.333em;
 	font-size: 18px;
-	color: #40E0D0;
+	color:#48b4ab;
 	font-weight: 700;
 }
 
@@ -763,9 +763,9 @@ li.portfolio-tag {
 	font-size: 9px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
-	color: #40E0D0;
+	color:#48b4ab;
 	display: inline;
-	border: 2px solid #40E0D0;
+	border: 2px solid#48b4ab;
 	padding: 8px;
 }
 
@@ -786,7 +786,7 @@ span.portfolio-link {
 	left: 0;
 	-webkit-transform: scale(0);
 	transform: scale(0);
-	background: #40e0d0;
+	background:#48b4ab;
 	opacity: 0.9;
 }
 
@@ -841,7 +841,7 @@ div.button-weblink {
 }
 
 #services h3 {
-	color: #40E0D0;
+	color:#48b4ab;
 	font-size: 22px;
 	font-weight: bold;
 	text-transform: lowercase;
@@ -892,7 +892,7 @@ div.button-weblink {
 .testimionals-bg {
 	width: 100%;
 	height: auto;
-	background: url(http://marinamarques.pt/img/mm_testimionals.jpg) no-repeat top center scroll;
+	background: url(./img/eat.jpg) no-repeat center center scroll;
 	background-size: cover;
 	-o-background-size: cover;
 }
@@ -959,7 +959,7 @@ footer a {
 footer a:hover,
 footer a:after,
 footer a:visited footer a:focus {
-	color: #40E0D0;
+	color:#48b4ab;
 }
 
 #copyright {
